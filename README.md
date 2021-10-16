@@ -1,2 +1,3 @@
-buildable src for Elementars's client Xulu.
-I take no credit for the code
+Original Client by Elementars
+Buildable SRC by Gopro336
+Droid's Xulu by Droid_D3V / Droid.#3929
